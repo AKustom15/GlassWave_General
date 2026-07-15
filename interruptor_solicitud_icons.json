@@ -1,5 +1,5 @@
 {
-  "allow_free_requests": true,
-  "allow_premium_requests": true,
-  "pause_message": ""
+  "allow_free_requests": False,
+  "allow_premium_requests": False,
+  "pause_message": "Ve, palabra de May"
 }
