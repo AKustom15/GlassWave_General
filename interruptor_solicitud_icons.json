@@ -1,7 +1,15 @@
 {
   "allow_free_requests": false,
-  "allow_premium_requests": true,
-  "pause_message": "📍IMPORTANTE⚠️
+  "allow_premium_requests": false,
+  "pause_message": "📍⚠️IMPORTANTE⚠️
 
-En estos momentos las solicitudes estan pausadas, le agradezco de su comprensión se van a restablecer dentro de 2 dias habiles sean pacientes luego se restablecerá 🙏"
+A note to new users: If you are new here and this message catches you by surprise, we sincerely apologize for coming across this announcement right away; we are currently going through an exceptional situation of force majeure. For users who are already aware of the situation we are facing, and given the high volume and demand of accumulated requests, we will be implementing the following measures to work more efficiently and keep things organized:
+
+1.- Updates will be periodic.
+
+2.- Periodic opening and closing: The request button (for both free and premium requests) will be periodically enabled and disabled. This is done solely to process and catch up on all pending requests from existing users.
+
+3.- Individual verification: Each request will be rigorously reviewed one by one to verify its legitimacy. If necessary, we will contact you via email to validate the information.
+
+Thank you 🙏 A in advance for your immense patience, understanding, and support as we work through this process. For more details, you can follow me on social media"
 }
