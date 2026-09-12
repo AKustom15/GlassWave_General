@@ -1,5 +1,5 @@
 {
-  "allow_free_requests": true,
-  "allow_premium_requests": true,
-  "pause_message": "⚠️IMPORTANT NOTICE⚠️📍\n\nAn update is coming very soon. Thank you for your patience and unconditional support!"
+  "allow_free_requests": false,
+  "allow_premium_requests": false,
+  "pause_message": "📍Processing Time for Requests:\n🔹️Premium: 7 - 14 business days\n🔹️Free: 14 - 20 business days.\nThank you for your patience."
 }
